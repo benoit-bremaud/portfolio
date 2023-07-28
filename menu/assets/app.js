@@ -1,6 +1,7 @@
 let toggle = document.querySelector('.toggle');
 let body = document.querySelector('body');
 
+
 let tl = gsap.timeline();
 
 toggle.addEventListener('click', function(){
